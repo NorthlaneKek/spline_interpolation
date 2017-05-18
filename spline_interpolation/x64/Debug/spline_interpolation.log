@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+c:\users\mikhail\desktop\spline_interpolation-master\spline_interpolation\spline_interpolation\MyForm.h(530): warning C4101: e: неиспользованная локальная переменная
+c:\users\mikhail\desktop\spline_interpolation-master\spline_interpolation\spline_interpolation\MyForm.h(560): warning C4101: e: неиспользованная локальная переменная
+c:\users\mikhail\desktop\spline_interpolation-master\spline_interpolation\spline_interpolation\myform.h(536): warning C4715: spline_interpolation::MyForm::func: значение возвращается не при всех путях выполнения
+  spline_interpolation.vcxproj -> C:\Users\Mikhail\Desktop\spline_interpolation-master\spline_interpolation\x64\Debug\spline_interpolation.exe
